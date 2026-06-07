@@ -76,13 +76,13 @@ Or open `predict_house_prices.ipynb` in Jupyter / Google Colab.
 ## 📈 Visualizations
 
 **Correlation Heatmap**
-![Heatmap](images/heatmap.png)
+
 
 **Actual vs Predicted**
-![Prediction](images/prediction.png)
+
 
 **Model Metrics**
-![Metrics](images/metrics.png)
+
 
 ---
 
