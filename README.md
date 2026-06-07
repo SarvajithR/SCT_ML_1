@@ -11,8 +11,8 @@ Predicts house prices based on square footage, number of bedrooms, and number of
 | Metric | Value |
 |--------|-------|
 | **R² Score** | 0.9994 (99.94%) |
-| **MAE** | $1,973.29 |
-| **RMSE** | $2,844.27 |
+| **MAE** | ₹1,973.29 |
+| **RMSE** | ₹2,844.27 |
 | Train / Test Split | 80% / 20% |
 | Dataset Size | 50 samples |
 
